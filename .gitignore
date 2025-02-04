@@ -1,0 +1,7 @@
+# ignore the files/directories while pushing to Github
+
+.vscode
+
+bank_code
+
+.env
