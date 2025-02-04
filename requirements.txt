@@ -1,1 +1,3 @@
 # Libraries required for the project
+
+langchain-core
